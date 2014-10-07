@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Celebrity DB Search by Year</string>
+    <string name="app_name">Celebrity DB</string>
+    <string name="net_notup">The Network is not available.  (hit back button to continue)</string>
+    <string name="network_unavailable">Network Unavailable</string>
+</resources>
